@@ -1,5 +1,5 @@
 //物件 Object
-
+//★★
 // key value
 
 var person = {
