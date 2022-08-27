@@ -1,8 +1,10 @@
 //解構物件 //Array_Object_Destructuring
+//解構物件 //Array_Object_Destructuring
 const person = {
   myName: '小白',
   age: 26,
   favoriteFood: 'WaterMelon',
+  url:'https://randomuser.me/api/'
 }
 /* console.log(person.name) */
 
